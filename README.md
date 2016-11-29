@@ -1,5 +1,5 @@
 # n2-kickoff - BETA
-Angular2 Project Generator wrote in PHP and fully extendable
+Angular2 Project Generator wrote in PHP
 
 # Requirements
 Should work on php 5.6+. Testing was all done on php 7.0 but there are no features specific to php 7 used.
