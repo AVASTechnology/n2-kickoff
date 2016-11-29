@@ -18,6 +18,17 @@ This will create the basic Angular2 app files and directory structure then packa
 
 The Official Angular2 Quickstart example template is 'demo/tour-of-heroes.xml' and generates all the files created by the end of the general quickstart guide.
 
+# Command Line Options
+
+- -f                     Template file to use for package creation
+- -n  --new              Create a new package, overwriting any current package that may be present
+- -v  --version          Package versioning
+- -s  --skip-archiving   Skip creatign the package archive (.tar.gz) file
+- --packagedir           Directory for creating the package file. Defaults to 'package'
+
+
+
+
 # Template File Formatting
 Template files are XML and relatively simple in their constuction. The details about the project framework you want create with a little bit of built in intelligence about dependencies.
 
